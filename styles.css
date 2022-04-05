@@ -1,0 +1,104 @@
+.welcometojapan {
+    font-size: 80pt;
+    text-align: center;
+    color: red;
+}
+
+p {
+    font-size: 24pt;
+    color: darkcyan;
+    text-align: center;
+}
+img {
+    height: 50%;
+    width: 50%;
+}
+
+.mapofjapan {
+    width: 50%;
+    height: 50%;
+}
+
+#pic1 {
+    height: 80%;
+    width: 100%;
+}
+
+#pic2 {
+    height: 80%;
+    width: 100%;
+}
+
+#pic3 {
+    height: 80%;
+    width: 100%;
+}
+
+#mapofjapan {
+    height: 80%;
+    width: 102%;
+}
+
+.fact1 {
+    color: cornflowerblue;
+}
+
+.fact2 {
+    color:brown;
+    font-size: 40pt;
+    text-align: center;
+}
+
+.fact21 {
+    color:burlywood;
+    font-size: 36pt;
+}
+
+.picofjapanfact1 {
+    height: 80%;
+    width: 60%;
+}
+
+.picofjapanfact2 {
+    height: 80%;
+    width: 100%;
+}
+
+.picofjapanfact21 {
+    height: 100%; 
+    width: 100%;
+}
+
+.picofjapanfact3 {
+    height: 80%;
+    width: 100%;
+}
+
+.fact3 {
+    font-size: 40pt;
+    text-align: center;
+    color:darkgreen;
+}
+
+.links {
+    font-size: 24pt;
+    text-align: center;
+}
+
+.kantoregion {
+    font-size: 24pt;
+    color:rgb(126, 27, 207);
+    text-align: center;
+}
+
+.hokkaidoregion {
+    font-size: 24pt;
+    color: darkred;
+    text-align: center;
+}
+
+.tohokuregion {
+    font-size: 24pt;
+    color: rgb(204, 9, 113);
+    text-align: center;
+}
