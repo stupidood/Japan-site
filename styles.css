@@ -102,3 +102,19 @@ img {
     color: rgb(204, 9, 113);
     text-align: center;
 }
+
+ul {
+
+    border: 5px dashed;
+
+    text-align: center;
+    list-style: none;
+    width: 50%;
+    margin: auto;
+    padding-left: 0;
+}
+
+ul li {
+    display: inline-block;
+    font-size: 26pt;
+}
